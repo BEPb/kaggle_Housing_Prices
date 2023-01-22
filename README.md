@@ -3,7 +3,7 @@
 
 <img src="./art/logo.png" alt="Bot logo" width="300" height="156.5">
 
-# kaggle Housing Prices Competition for Kaggle Learn Users
+# Housing Prices Competition for Kaggle Learn Users
 
 </div>
 
