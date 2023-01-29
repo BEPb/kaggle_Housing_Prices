@@ -77,7 +77,8 @@ print('percent: \n', (result_df['percent'].value_counts('True')))
 print('Real score on submission: 19633.84499')
 
 '''
-Предсказания этого кода не дало ни одного правильного
+The predictions of this code did not give any correct
+0% - True
 '''
 
 
